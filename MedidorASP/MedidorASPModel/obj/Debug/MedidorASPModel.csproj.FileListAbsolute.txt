@@ -1,6 +1,0 @@
-C:\Users\IamBatman\source\repos\MedidorASP\MedidorASPModel\bin\Debug\MedidorASPModel.dll
-C:\Users\IamBatman\source\repos\MedidorASP\MedidorASPModel\bin\Debug\MedidorASPModel.pdb
-C:\Users\IamBatman\source\repos\MedidorASP\MedidorASPModel\obj\Debug\MedidorASPModel.csproj.AssemblyReference.cache
-C:\Users\IamBatman\source\repos\MedidorASP\MedidorASPModel\obj\Debug\MedidorASPModel.csproj.CoreCompileInputs.cache
-C:\Users\IamBatman\source\repos\MedidorASP\MedidorASPModel\obj\Debug\MedidorASPModel.dll
-C:\Users\IamBatman\source\repos\MedidorASP\MedidorASPModel\obj\Debug\MedidorASPModel.pdb
